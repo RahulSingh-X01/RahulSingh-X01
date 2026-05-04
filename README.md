@@ -1,4 +1,4 @@
-# 💫 Hi! I'm Rahul
+# 💫 Hi ! I'm Rahul
 An undergraduate engineering student focused on Artificial Intelligence, Machine Learning, and Generative AI, building strong foundations in mathematics and core computer science.<br><br>I’m deeply interested in how learning algorithms work internally — from linear models to neural networks and modern generative architectures. I prefer implementing systems from scratch to truly understand their mechanics rather than relying only on high-level libraries.<br><br>My long-term goal is to become a highly analytical AI engineer capable of designing intelligent and generative systems with strong theoretical grounding.<br><br>🧠 What I Value :<br><br>     🧮 Mathematical clarity<br><br>🧩 Clean logical thinking<br><br>🏗 Structured problem solving<br><br>🎯 Depth over shortcuts<br><br><br>🔭 Current Focus :<br><br>     🧠 ML implementations from scratch<br><br>⚔️ DSA and problem solving<br><br>🧮 Strengthening math for AI<br><br>🔥 Building consistency and technical depth
 
 
