@@ -14,7 +14,7 @@
 ![](https://streak-stats.demolab.com/?user=RahulSingh-X01&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RahulSingh-X01&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 # 🟩 GitHub Contribution Graph:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahul-X01&bg_color=03142b&color=59ff00&line=08d704&point=a110e5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=Rahul-X01&bg_color=03142b&color=59ff00&line=08d704&point=a110e5&area=true&hide_border=true)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RahulSingh-X01&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
