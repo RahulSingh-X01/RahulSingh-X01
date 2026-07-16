@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:006400,100:00FF41&height=220&section=header&text=Rahul%20Singh&fontColor=00FF41&fontSize=52&fontAlignY=38&desc=Python%20%C2%B7%20ML%20%C2%B7%20DL&descSize=18&descAlignY=60&animation=fadeIn" alt="header"/>
 </p>
 
-# 💫 Hi ! I'm Rahul
+# 💫 About Me:
 
 An undergraduate engineering student focused on Artificial Intelligence, Machine Learning, and Generative AI, building strong foundations in mathematics and core computer science.I'm deeply interested in how learning algorithms work internally — from linear models to neural networks and modern generative architectures. I prefer implementing systems from scratch to truly understand their mechanics rather than relying only on high-level libraries.My long-term goal is to become a highly analytical AI engineer capable of designing intelligent and generative systems with strong theoretical grounding.
 
@@ -22,6 +22,7 @@ An undergraduate engineering student focused on Artificial Intelligence, Machine
 
 ![](https://github-readme-stats.shion.dev/api?username=RahulSingh-X01&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://streak-stats.demolab.com/?user=RahulSingh-X01&theme=github_dark&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=RahulSingh-X01&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 # 📈 Contribution Graph
